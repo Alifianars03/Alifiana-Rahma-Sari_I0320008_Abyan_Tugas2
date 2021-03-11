@@ -1,1 +1,1 @@
-print("lebar")
+print("lebar panjang")
